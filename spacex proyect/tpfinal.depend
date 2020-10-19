@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1592504653 source:c:\users\joaac\onedrive\documentos\lenguaje c\ajisj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astronautas156.h"
+
+1592234241 source:c:\users\joaac\onedrive\documentos\lenguaje c\ajisj\astronautas.c
+	"astronautas.h"
+
+1592231787 c:\users\joaac\onedrive\documentos\lenguaje c\ajisj\astronautas.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592504122 c:\users\joaac\onedrive\documentos\lenguaje c\ajisj\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592504612 source:c:\users\joaac\onedrive\documentos\lenguaje c\ajisj\astronautas156.c
+	"astronautas156.h"
+
+1592497412 source:c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\trabajo final\astronautas156.c
+	"astronautas156.h"
+
+1592513339 c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\trabajo final\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592513674 source:c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\trabajo final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astronautas156.h"
+
+1592490212 source:c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\nueva carpeta\trabajo final\astronautas156.c
+	"astronautas156.h"
+
+1592506139 c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\nueva carpeta\trabajo final\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592515319 source:c:\users\joaac\onedrive\documentos\lenguaje c\nueva carpeta\nueva carpeta\trabajo final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astronautas156.h"
+
+1592768084 source:c:\users\joaac\onedrive\documentos\nueva carpeta\trabajo final\astronautas156.c
+	"astronautas156.h"
+
+1592767170 c:\users\joaac\onedrive\documentos\nueva carpeta\trabajo final\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592768576 source:c:\users\joaac\onedrive\documentos\nueva carpeta\trabajo final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astronautas156.h"
+
+1592768084 source:c:\users\usuario\desktop\programación\astronautas156.c
+	"astronautas156.h"
+
+1592767170 c:\users\usuario\desktop\programación\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592768576 source:c:\users\usuario\desktop\programación\main.c
+	<stdio.h>
+	<stdlib.h>
+	"astronautas156.h"
+
+1593052669 source:c:\users\joaac\onedrive\documentos\lenguaje c\acarey\main.c
+	<stdio.h>
+	<stdlib.h>
+	"spacex.h"
+
+1592835097 c:\users\joaac\onedrive\documentos\lenguaje c\acarey\astronautas156.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1592835742 source:c:\users\joaac\onedrive\documentos\lenguaje c\acarey\astronautas156.c
+	"astronautas156.h"
+
+1592942072 c:\users\joaac\onedrive\documentos\lenguaje c\acarey\spacex.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1593053487 source:c:\users\joaac\onedrive\documentos\lenguaje c\acarey\spacex.c
+	"spacex.h"
+
+1593094979 source:c:\users\joaac\onedrive\documentos\lenguaje c\spacex proyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"spacex.h"
+
+1593094643 c:\users\joaac\onedrive\documentos\lenguaje c\spacex proyect\spacex.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1593105997 source:c:\users\joaac\onedrive\documentos\lenguaje c\spacex proyect\spacex.c
+	"spacex.h"
+
+1593094979 source:c:\users\joaac\onedrive\documentos\lenguaje c\1er cuatri\spacex proyect\main.c
+	<stdio.h>
+	<stdlib.h>
+	"spacex.h"
+
+1593094643 c:\users\joaac\onedrive\documentos\lenguaje c\1er cuatri\spacex proyect\spacex.h
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+
+1593105997 source:c:\users\joaac\onedrive\documentos\lenguaje c\1er cuatri\spacex proyect\spacex.c
+	"spacex.h"
+
