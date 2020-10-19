@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\joaac\onedrive\documentos\lenguaje c\tp4\pila.c
+	"pila.h"
+
+1490112217 c:\users\joaac\onedrive\documentos\lenguaje c\tp4\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1588598963 source:c:\users\joaac\onedrive\documentos\lenguaje c\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+	<math.h>
+

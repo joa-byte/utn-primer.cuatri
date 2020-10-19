@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588696053 source:c:\users\joaac\onedrive\documentos\lenguaje c\tp6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
